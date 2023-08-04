@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: blemm anim
+  m_Controller: {fileID: 9100000, guid: 202163c7b42c1524299e2d4c3a8be292, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -8945691123924629249, guid: 1f781fa09612cc94d8c50e866c82a5c8,
+      type: 3}
+    m_OverrideClip: {fileID: -8945691123924629249, guid: 80be5f5d21648e34899a38ca3c1febf6,
+      type: 3}
+  - m_OriginalClip: {fileID: 1079665108409675491, guid: 1f781fa09612cc94d8c50e866c82a5c8,
+      type: 3}
+    m_OverrideClip: {fileID: 1079665108409675491, guid: 80be5f5d21648e34899a38ca3c1febf6,
+      type: 3}
+  - m_OriginalClip: {fileID: -739054045616552204, guid: 1f781fa09612cc94d8c50e866c82a5c8,
+      type: 3}
+    m_OverrideClip: {fileID: -739054045616552204, guid: 80be5f5d21648e34899a38ca3c1febf6,
+      type: 3}
+  - m_OriginalClip: {fileID: 5297050669623574059, guid: 1f781fa09612cc94d8c50e866c82a5c8,
+      type: 3}
+    m_OverrideClip: {fileID: 5297050669623574059, guid: 80be5f5d21648e34899a38ca3c1febf6,
+      type: 3}
